@@ -1,9 +1,13 @@
 {
-  "name": "vuetest",
-  "version": "0.0.0",
-  "author": "Roland Alla | innovation mecom GmbH <R.Alla@innovationmecom.de>",
-  "description": "just a test",
-  "license": null,
+  "name": "electronVueVuetify",
+  "version": "0.0.1",
+  "author": "Roland Alla  <info@rolandalla.com>",
+  "description": "This is a Starter project made with Electron , VueJs and Vuetify",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:roladn/Electron-VueJs-Vuetify.git"
+  },
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
