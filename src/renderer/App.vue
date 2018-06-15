@@ -56,12 +56,6 @@
                 title: 'Login',
                 icon: 'fingerprint',
               }]
-    }),
-    methods: {
-      goToPage() {
-        this.$router.push({ path: 'contact' })
-        console.log('test');
-      }
-    }
+    })
   }
 </script>
