@@ -45,6 +45,12 @@
                 icon: 'home',
               },
               {
+                href: 'video',
+                router: true,
+                title: 'video',
+                icon: 'ondemand_video',
+              },
+              {
                 href: 'posts',
                 router: true,
                 title: 'Posts',
