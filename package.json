@@ -21,7 +21,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "vuetest",
+    "productName": "vueElectron",
     "appId": "org.simulatedgreg.electron-vue",
     "directories": {
       "output": "build"
